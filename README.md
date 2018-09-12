@@ -7,13 +7,14 @@
 实现技术通过cocos2dx
 
 更多详情可以到官网下载体验
-
 [萌布猫咪官网](https://51ihere.com)
 
 [萌布猫咪安卓版下载](http://pa7nrbkqb.bkt.clouddn.com/mengbu_v4.1.apk)
 
-欢迎大家提建议～
+[萌布猫咪苹果版下载](https://itunes.apple.com/cn/app/%E8%90%8C%E5%B8%83%E7%8C%AB%E5%92%AA/id1364404442?mt=8)
 
 ![](https://oscimg.oschina.net/oscnet/c714d24429097ad88cc38d135b004763ccf.jpg)
 
 ![游戏素材](https://oscimg.oschina.net/oscnet/e5ca761a93ea54609f74dd79e3e06572a3b.jpg)
+
+欢迎大家提建议～
