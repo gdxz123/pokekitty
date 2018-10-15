@@ -5,7 +5,9 @@ The PokeKitty is my interest-based work. I'm responsible for product design, tec
 "PokeKitty" is a cat collection APP. You can receive  gifts and cook food. the gift and food will attract more cats to come and play with you.you need to collect all the cats with your ingenuity. Each cat has a warm heart story wow.
 
 
-### More details can be downloaded from the official website.
+### Game details
+
+you can be downloaded from the official website.
 
 [official website](https://51ihere.com)
 
@@ -20,3 +22,7 @@ The PokeKitty is my interest-based work. I'm responsible for product design, tec
 ![game detail2](https://oscimg.oschina.net/oscnet/e5ca761a93ea54609f74dd79e3e06572a3b.jpg)
 
 Welcome to make suggestions.
+
+### License
+
+avatarmake is available under the MIT license. See the LICENSE file for more info.
