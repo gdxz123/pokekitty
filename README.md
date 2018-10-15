@@ -13,8 +13,10 @@ The PokeKitty is my interest-based work. I'm responsible for product design, tec
 
 [iOS version](https://itunes.apple.com/cn/app/%E8%90%8C%E5%B8%83%E7%8C%AB%E5%92%AA/id1364404442?mt=8)
 
-![](https://oscimg.oschina.net/oscnet/c714d24429097ad88cc38d135b004763ccf.jpg)
+![game detail3](https://oscimg.oschina.net/oscnet/004186fe971ce8373509e05551721c11b66.jpg)
 
-![game detail](https://oscimg.oschina.net/oscnet/e5ca761a93ea54609f74dd79e3e06572a3b.jpg)
+![game detail1](https://oscimg.oschina.net/oscnet/c714d24429097ad88cc38d135b004763ccf.jpg)
+
+![game detail2](https://oscimg.oschina.net/oscnet/e5ca761a93ea54609f74dd79e3e06572a3b.jpg)
 
 Welcome to make suggestions.
