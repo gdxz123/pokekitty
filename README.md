@@ -1,6 +1,6 @@
 ### PokeKitty release
 
-The PokeKitty is my interest-based work. I'm responsible for product design, technical , Operate and some UI design work. My sister is mainly the original design.
+The PokeKitty is my interest-based work. I'm responsible for game design, technical realization , Operate promotion and some UI design work. My sister is mainly the original design.
 
 "PokeKitty" is a cat collection APP. You can receive  gifts and cook food. the gift and food will attract more cats to come and play with you.you need to collect all the cats with your ingenuity. Each cat has a warm heart story wow.
 
