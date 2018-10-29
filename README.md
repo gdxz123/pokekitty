@@ -11,7 +11,7 @@ you can be downloaded from the official website.
 
 [official website](https://51ihere.com)
 
-[android version](http://pa7nrbkqb.bkt.clouddn.com/mengbu_v4.1.apk)
+[android version](https://play.google.com/store/apps/details?id=com.gdxz.HealthGo)
 
 [iOS version](https://itunes.apple.com/cn/app/%E8%90%8C%E5%B8%83%E7%8C%AB%E5%92%AA/id1364404442?mt=8)
 
