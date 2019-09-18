@@ -9,8 +9,6 @@ The PokeKitty is my interest-based work. I'm responsible for game design, techni
 
 you can be downloaded from the official website.
 
-[official website](https://51ihere.com)
-
 [android version](https://play.google.com/store/apps/details?id=com.gdxz.HealthGo)
 
 [iOS version](https://itunes.apple.com/cn/app/%E8%90%8C%E5%B8%83%E7%8C%AB%E5%92%AA/id1364404442?mt=8)
